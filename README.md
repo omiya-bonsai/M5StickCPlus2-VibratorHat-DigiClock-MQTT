@@ -11,6 +11,8 @@ An Arduino sketch for **M5StickC Plus2** that:
 
 > Private settings live in `config.h`, which should **NOT** be committed. This repo contains **`config.example.h`** — copy it to `config.h` and edit for your environment.
 
+
+![IMG_7649](https://github.com/user-attachments/assets/cf519ac9-e86e-4603-990d-4e656f7a2289)
 ---
 
 ## Features
@@ -36,6 +38,7 @@ An Arduino sketch for **M5StickC Plus2** that:
 - SDA = **G32**, SCL = **G33** (handled in code with `Wire.begin(32, 33)`)
 - Vibrator HAT control: **GPIO 26** (configurable; see `VIBRATOR_CTRL_PIN`)
 
+![IMG_7648](https://github.com/user-attachments/assets/42b7b98b-4614-417f-be57-81130a44efc4)
 ---
 
 ## Libraries
