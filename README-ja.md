@@ -11,6 +11,7 @@
 
 > 機微情報は **`config.h`** に記述します（**コミット禁止**）。リポジトリには **`config.example.h`** を同梱するので、**`config.h` にコピーして編集**してください。
 
+![IMG_7649](https://github.com/user-attachments/assets/17ef902f-59bf-40c1-8898-b8f0f159dbc9)
 ---
 
 ## 特長
@@ -36,6 +37,7 @@
 SDA = **G32**、SCL = **G33**（コード内で `Wire.begin(32, 33)`）  
 Vibrator HAT 制御ピン：**GPIO 26**（`VIBRATOR_CTRL_PIN` で変更可）
 
+![IMG_7648](https://github.com/user-attachments/assets/ca7fc8f5-6255-45a6-a3f1-9847cd604502)
 ---
 
 ## 使用ライブラリ
